@@ -26,7 +26,7 @@ SecDevOps Engineer • App Developer • Microsoft Partner Center Publisher
 
 # 🧠 About Me
 
-I'm the SecDevOps side of the operation — full-stack app development, CI/CD pipelines, and shipping polished apps through the **Microsoft Partner Center** under the publisher identity `@TMHP.com`. My sibling accounts cover the other disciplines: [@DeadmanXXXII](https://github.com/DeadmanXXXII) is the Red Team / offensive research account, and **V00D00** will carry the Blue Team / defensive work once it's set up.
+I'm the SecDevOps side of the operation — full-stack app development, CI/CD pipelines, and shipping polished apps through the **Microsoft Partner Center** under the publisher identity `@TMHP.com`. My sibling accounts cover the other disciplines: [DeadmanXXXII](https://github.com/DeadmanXXXII) is the Red Team / offensive research account, and **V00D00** will carry the Blue Team / defensive work once it's set up.
 
 ---
 
@@ -34,10 +34,11 @@ I'm the SecDevOps side of the operation — full-stack app development, CI/CD pi
 
 | | App | Description | Get it |
 |---|---|---|---|
+| 🐙 | **Gitget** | Store-only release — £0.79/download | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9ndcnt0t2jmg?ocid=webpdpshare) |
+
 | 🔀 | **QuickSwitch** | Electron network reset / flushing utility | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9nhwwqzq18r1?ocid=webpdpshare) |
 | 🔐 | **DevCerts** | Local dev certificate manager | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9p7gm3v8zh7g?ocid=webpdpshare) |
 | ⚖️ | **CourtReady** | Child-law navigator / court prep app | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9pnsdm75rv2v?ocid=webpdpshare) |
-| 🐙 | **Gitget** | Store-only release — £0.79/download | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9ndcnt0t2jmg?ocid=webpdpshare) |
 
 > 🔒 Gitget's source repo is private — Store link is the only public entry point, and that's by design.
 
@@ -54,9 +55,6 @@ I'm the SecDevOps side of the operation — full-stack app development, CI/CD pi
 | 🧩 | **LabyrinthV8** | Full DLP security dashboard — detection-only, full tool deployment (Flask → TS/Node/React/Electron rewrite of DeadmanXXXII's [Labyrinth](https://github.com/DeadmanXXXII/Labyrinth)) | [Repo](https://github.com/HevvyDevvy/LabyrinthV8) |
 | 🔀 | **QuickSwitchV1** | Network flushing tool — packaged app above | [Repo](https://github.com/HevvyDevvy/QuickSwitchV1) |
 
-> ⚠️ **Flag for cleanup:** DeadmanXXXII's repo list also has an older `QuickSwitch` repo — worth archiving/redirecting that one to `QuickSwitchV1` here so there's a single source of truth.
->
-> You've got 11 repos total here (some private) — I know 6. **Send the other 5 names** whenever you want them added; happy to slot them into either the Pinned table or the DevOps section below depending on what they are.
 
 ---
 
@@ -142,7 +140,7 @@ These currently live under the DeadmanXXXII account (that's where they were buil
 
 | Repository | Description | Link |
 |---|---|---|
-| 💰 Snarky | Financial app | https://github.com/DeadmanXXXII/Snarky |
+| 📖 Free education | education resources | https://github.com/DeadmanXXXII/Free_Education | 
 | 🦙 AlpineAlpaca | Financial app | https://github.com/DeadmanXXXII/AlpineAlpaca |
 | 🎓 Code-Yourself-Games | How I learned to code | https://github.com/DeadmanXXXII/Code-Yourself-Games |
 | 🧮 Algorithms | Computer science algorithms & concepts | https://github.com/DeadmanXXXII/Algorithms |
