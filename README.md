@@ -35,7 +35,6 @@ I'm the SecDevOps side of the operation — full-stack app development, CI/CD pi
 | | App | Description | Get it |
 |---|---|---|---|
 | 🐙 | **Gitget** | Store-only release — £0.79/download | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9ndcnt0t2jmg?ocid=webpdpshare) |
-
 | 🔀 | **QuickSwitch** | Electron network reset / flushing utility | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9nhwwqzq18r1?ocid=webpdpshare) |
 | 🔐 | **DevCerts** | Local dev certificate manager | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9p7gm3v8zh7g?ocid=webpdpshare) |
 | ⚖️ | **CourtReady** | Child-law navigator / court prep app | [![Get it from Microsoft](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9pnsdm75rv2v?ocid=webpdpshare) |
@@ -181,6 +180,8 @@ These currently live under the DeadmanXXXII account (that's where they were buil
 <img src="https://img.shields.io/badge/YouTube-The%20Mad%20Hatter's%20Playground-red?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-</p>
+<a href="https://www.hopp.bio/the-mad-hatters-playground">
+<img src="https://img.shields.io/badge/@TMHP.com-Blu%20Corbel-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-> ⚠️ **Need from you:** the exact URL behind your `@TMHP.com` bio link (screenshot shows `get.microsoft.com/install/9pnsdm75rv2v...` — confirm if that's the CourtReady install link or a separate TMHP.com site).
+</p>
